@@ -19,7 +19,8 @@ https://emoji-voting.vercel.app/
 
 -   
 - ![Mobile View]
--   
+-   ![WhatsApp Image 2025-12-28 at 5 16 16 AM](https://github.com/user-attachments/assets/b45d9d06-edee-4b86-a426-8deeef6cae22)
+
 
 ---
 
