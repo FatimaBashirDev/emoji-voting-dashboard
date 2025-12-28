@@ -1,16 +1,54 @@
-# React + Vite
+# Emoji Voting Dashboard  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Interactive dark-themed emoji voting dashboard** with a sleek, modern UI. Users can **vote for emojis**, see the **winner highlighted with a bounce animation**, and interact with **responsive emoji cards**.  
 
-Currently, two official plugins are available:
+All voting data can optionally be **stored in localStorage**, so votes are saved even after refreshing. The app emphasizes **clean, professional UI patterns, subtle hover effects, and responsive design** suitable for portfolios and LinkedIn showcases.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## Hosted Link
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://emoji-voting.vercel.app/  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Screenshots
+
+- ![Desktop View]
+- <img width="1920" height="2378" alt="screencapture-emoji-voting-vercel-app-2025-12-28-05_13_05 (1)" src="https://github.com/user-attachments/assets/55002d8b-597e-425e-a399-dc108fa7421b" />
+
+-   
+- ![Mobile View]
+-   
+
+---
+
+## Getting Started
+
+This project is built using **HTML, CSS, and JavaScript**. You can run it locally by simply opening `index.html` in your browser.  
+
+> Optional: Use **VS Code Live Server** or any static server to preview live.  
+
+---
+
+### Features
+
+- **Vote for emojis** and see real-time updates  
+- **Winner emoji highlighted** with a bounce animation  
+- **Responsive design** for desktop and mobile  
+- **Dark professional theme** suitable for portfolios or LinkedIn  
+- **Interactive hover effects** on cards and buttons  
+- **Accent color (`#00ff99`)** used sparingly for highlights  
+- **Optional localStorage support** to persist votes  
+
+---
+
+### Tech Stack
+
+- **HTML5** – Structure of the app  
+- **CSS3** – Styling, gradients, hover effects, responsive design  
+- **JavaScript** – Voting logic and dynamic updates  
+- **localStorage** – Optional persistence for votes  
+
+---
+
